@@ -1,7 +1,21 @@
-![linkedin_banner](https://user-images.githubusercontent.com/29070836/206225532-99b2bd2a-118e-47f7-8d25-7054a465bccf.png)
+![linkedin_banner](https://media.licdn.com/dms/image/v2/D4D16AQEX_gygCaaBiA/profile-displaybackgroundimage-shrink_350_1400/B4DZTwFPiTHYAY-/0/1739194695680?e=1744848000&v=beta&t=5nxlZp0_sZF0mDEzJjDVdMLca8GYXIkAF9wcT0jlT4M)
 
 <h1 align="center">About me</h1>
-<p align="center">Tech enthusiast always seeking to learn more, develop my skills. <br>Welcome to my GitHub repo! :)</p>
+<p>👋 Hi there! I'm <span class="highlight">Fernando Castro</span>, a <span class="highlight">Tech Leader, SRE, Cloud and Database Engineer also AI Specialist & Enthusiast, </span> passionate about <span class="highlight">Observability, DevOps and High Availability Systems</span>.</p>
+
+<h2>💡 What I do:</h2>
+<p>👨🏻‍💻 <span class="highlight">IT Manager:</span> MBA gratuated leading technology teams, optimizing IT infrastructure and driving innovation through strategic planning and digital transformation.</p>[
+<p>🗄️ <span class="highlight">Database Engineer:</span> Designing, optimizing and maintaining high-performance databases for scalability, reliability, and data integrity.</p>
+<p>🔹 <span class="highlight">SRE:</span> Building reliable, scalable, and efficient systems with CI/CD pipelines, observability tools, log management, etc.</p>
+<p>☁️ <span class="highlight">Cloud & DevOps:</span> Working with Azure, AWS, Kubernetes, Terraform, and CI/CD pipelines to automate and optimize cloud infrastructure.</p>
+<p>⚙️ <span class="highlight">Automation Engineering:</span> Developing solutions with APIs and automation scripts in Python, PowerShell and Bash.</p>
+
+<h2>🔥 Projects & Interests:</h2>
+<p>🚀 Founder of <span class="highlight">Prime Life</span>, a platform for personal growth, career development, financial education and much more.</p>
+<p>📡 Passionate about <span class="highlight">tech communities, content creation and mentoring future engineers</span>.</p>
+
+<h2>💬 Let’s connect!</h2>
+<p>Feel free to check out my projects or reach out for collaboration. 🚀</p>
 
 <h1 align="center">Skills</h1>
 <h2 align="center">Databases</h2>
