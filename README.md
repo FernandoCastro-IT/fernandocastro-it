@@ -1,7 +1,7 @@
 ![linkedin_banner](https://media.licdn.com/dms/image/v2/D4D16AQEX_gygCaaBiA/profile-displaybackgroundimage-shrink_350_1400/B4DZTwFPiTHYAY-/0/1739194695680?e=1744848000&v=beta&t=5nxlZp0_sZF0mDEzJjDVdMLca8GYXIkAF9wcT0jlT4M)
 
 <h1 align="center">About me</h1>
-<p>👋 Hi there! I'm <span class="highlight">Fernando Castro</span>, a <span class="highlight">Tech Leader, SRE, Cloud and Database Engineer also AI Specialist & Enthusiast, </span> passionate about <span class="highlight">Observability, DevOps and High Availability Systems</span>.</p>
+<p>👋 Hi there! I'm <span class="highlight">Fernando Castro</span>, a <span class="highlight">IT Manager and Tech Leader, SRE/DBRE, Cloud and Database Engineer also AI Specialist & Enthusiast, </span> passionate about <span class="highlight">Observability, Automation, Integration, whole DevOps culture and AI</span>.</p>
 
 <h2>💡 What I do:</h2>
 <p>👨🏻‍💻 <span class="highlight">IT Manager:</span> MBA gratuated leading technology teams, optimizing IT infrastructure and driving innovation through strategic planning and digital transformation.</p>[
