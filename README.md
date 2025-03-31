@@ -4,7 +4,7 @@
 <p>👋 Hi there! I'm <span class="highlight">Fernando Castro</span>, a <span class="highlight">IT Manager and Tech Leader, SRE/DBRE, Cloud and Database Engineer also AI Specialist & Enthusiast, </span> passionate about <span class="highlight">Observability, Automation, Integration, whole DevOps culture and AI</span>.</p>
 
 <h2>💡 What I do:</h2>
-<p>👨🏻‍💻 <span class="highlight">IT Manager:</span> MBA gratuated leading technology teams, optimizing IT infrastructure and driving innovation through strategic planning and digital transformation.</p>[
+<p>👨🏻‍💻 <span class="highlight">IT Manager:</span> MBA gratuated leading technology teams, optimizing IT infrastructure and driving innovation through strategic planning and digital transformation.</p>
 <p>🗄️ <span class="highlight">Database Engineer:</span> Designing, optimizing and maintaining high-performance databases for scalability, reliability, and data integrity.</p>
 <p>🔹 <span class="highlight">SRE:</span> Building reliable, scalable, and efficient systems with CI/CD pipelines, observability tools, log management, etc.</p>
 <p>☁️ <span class="highlight">Cloud & DevOps:</span> Working with Azure, AWS, Kubernetes, Terraform, and CI/CD pipelines to automate and optimize cloud infrastructure.</p>
